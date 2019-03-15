@@ -4,7 +4,7 @@ widget = "slider"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 # Order that this section will appear in.
-weight = 1
+weight = 30
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
